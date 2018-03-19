@@ -12,7 +12,7 @@ This was built on Python 2. If one wishes to update it, feel free to.
 
 ## Run
 ```
-cd /Path/To/Probability/File/Folder
+cd /Path/To/File
 python probabilityAlgorithm.py
 ```
 
